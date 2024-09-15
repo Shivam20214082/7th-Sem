@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-Welcome to my **7th Semester Academic Code Repository**, where I’ve compiled all the projects and assignments developed during this semester. The repository spans multiple subjects such as **Distributed Systems**, **Operating Systems**, **Computer Networks**, **Artificial Intelligence**, and **Project Work**. The goal is to consolidate all academic work in one place, making it accessible for future reference, learning, and sharing.
+Welcome to my **7th Semester Academic Code Repository**, where I’ve compiled all the projects and assignments developed during this semester. The repository spans multiple subjects such as **Distributed Systems**, **Artificial Intelligence**, and **Project Work**. The goal is to consolidate all academic work in one place, making it accessible for future reference, learning, and sharing.
 
 ---
 
